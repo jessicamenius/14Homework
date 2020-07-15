@@ -1,7 +1,7 @@
 {
   "name": "1-Passport-Example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Reverse engineer the starter code provided and create a tutorial for the code.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +19,13 @@
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "sequelize": "^5.8.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicamenius/14Homework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jessicamenius/14Homework/issues"
+  },
+  "homepage": "https://github.com/jessicamenius/14Homework#readme"
 }
